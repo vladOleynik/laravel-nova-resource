@@ -14,7 +14,7 @@
     </execution>
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="747" />
+    <option name="totalTimeSeconds" value="1684" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -156,7 +156,7 @@
       <workItem from="1573806959451" duration="13000" />
       <workItem from="1581409012759" duration="37000" />
       <workItem from="1581409300308" duration="755000" />
-      <workItem from="1581410070979" duration="556000" />
+      <workItem from="1581410070979" duration="1491000" />
     </task>
     <servers />
   </component>
